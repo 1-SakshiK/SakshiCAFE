@@ -14,6 +14,11 @@ Project URL ( demo video )
 
 https://youtu.be/0qMBUK56c2I
 
+Some Screenshots of web page 
+
+![Screenshot (384)](https://user-images.githubusercontent.com/101929086/164251121-bb49ef4b-de47-44ad-aa73-b39e86f9a8fc.png)
+
+![Screenshot (385)](https://user-images.githubusercontent.com/101929086/164251230-411c00f0-6a29-45ff-a2a1-ebbd070fb8d4.png)
 
 
 
