@@ -7,7 +7,7 @@ I  Created a restaurant webpage with bot used html and css with *Azure Bot* serv
 
  This project is also hosted at Github pages    https://1-sakshik.github.io/SakshiCAFE/
 
-# Video of project (recorded github readme and azure website working)
+# Video of project
 https://user-images.githubusercontent.com/101929086/164528705-b542a52e-4c54-4d6d-902b-ed784d7bc503.mp4
 
 
