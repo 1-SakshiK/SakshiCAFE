@@ -3,9 +3,9 @@
 I  Created a restaurant webpage with bot used html and css with *Azure Bot* services and  the bot will give the menu of the Restaurants .
  Also we can  order  there with the bot  and it  also you can take the feedback form the Bot.
 
-# My Azure Website Link (hosted at Azure, Demo project link)   https://icy-pond-065c91210.1.azurestaticapps.net/#
+ My Azure Website Link (hosted at Azure, Demo project link)   https://icy-pond-065c91210.1.azurestaticapps.net/#
 
-# This project is also hosted at Github pages    https://1-sakshik.github.io/SakshiCAFE/
+ This project is also hosted at Github pages    https://1-sakshik.github.io/SakshiCAFE/
 
 # Video of project (recorded github readme and azure website working )
 https://user-images.githubusercontent.com/101929086/164528705-b542a52e-4c54-4d6d-902b-ed784d7bc503.mp4
