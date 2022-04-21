@@ -12,7 +12,7 @@ https://azure.microsoft.com/en-in/services/bot-services/
 
 Project URL ( demo video )
 
-https://youtu.be/0qMBUK56c2I
+
 
 Some Screenshots of web page 
 
