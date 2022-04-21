@@ -6,6 +6,11 @@ I  Created a restaurant webpage with bot used html and css with *Azure Bot* serv
 YOU  CAN TEST  MY PROJECT HERE  ( MY WEBSITE LINK ):-
 https://icy-pond-065c91210.1.azurestaticapps.net/#
 
+
+# video of project (recorded github readme and azure website working )
+https://user-images.githubusercontent.com/101929086/164528705-b542a52e-4c54-4d6d-902b-ed784d7bc503.mp4
+
+
 # Home page of project sakshicafe (A cafe/restaurant )
 
 ![Screenshot (659)](https://user-images.githubusercontent.com/101929086/164524133-a73bf56b-8542-48d8-a079-57315ae375f3.png)
