@@ -1,6 +1,6 @@
 # SakshiCAFE
 
-I Ccreated a restaurant webpage with bot used html and css with *Azure Bot* services and  the bot will give the menu of the Restaurants .
+I  Created a restaurant webpage with bot used html and css with *Azure Bot* services and  the bot will give the menu of the Restaurants .
  Also we can  order  there with the bot  and it  also you can take the feedback form the Bot.
 
 YOU  CAN TEST  MY PROJECT HERE  ( MY WEBSITE LINK ):-
