@@ -14,7 +14,8 @@ https://icy-pond-065c91210.1.azurestaticapps.net/#
 ![Screenshot (660)](https://user-images.githubusercontent.com/101929086/164524946-117b64c8-da37-466c-b255-81ff58a424e8.png)
 
 # chatbot for online query / ordering
-(https://user-images.githubusercontent.com/101929086/164499341-59c66fa7-4805-490d-add7-a6c38a2bb7e2.png)
+
+![164499341-59c66fa7-4805-490d-add7-a6c38a2bb7e2](https://user-images.githubusercontent.com/101929086/164526535-ff98454a-04b9-49c9-8080-bc30cc20fe75.png)
 
 
 # Some of the screenshot taken while creating / deploying the chat bot(steps followed) process for chatbot creation
